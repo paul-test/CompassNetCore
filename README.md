@@ -1,0 +1,2 @@
+# CompassNetCore
+.NET Core
